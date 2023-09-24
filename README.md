@@ -34,4 +34,6 @@ CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies_NestedLaye
 
 CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies_All:['stdlib_list']
 
+"pip install stdlib_list"
+
 ###########################
