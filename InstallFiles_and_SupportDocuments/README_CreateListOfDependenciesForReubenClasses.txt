@@ -23,11 +23,11 @@ Windows 10 64-bit
 
 ########################### Python module installation instructions, all OS's
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies: ['stdlib_list']
 CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies_TestProgram: []
 CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies_NestedLayers: []
 CreateListOfDependenciesForReubenClasses.py, ListOfModuleDependencies_All:['stdlib_list']
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+"pip install stdlib_list"
 
 ###########################
